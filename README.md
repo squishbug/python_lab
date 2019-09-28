@@ -1,2 +1,4 @@
 # python_lab
-Helpful notes on basic python
+Helpful notes on basic python.
+
+Please check out the Wiki!
